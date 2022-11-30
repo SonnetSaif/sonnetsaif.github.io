@@ -4,8 +4,7 @@ github_users:
 github_repos:
   - SonnetSaif/U-Net
   - SonnetSaif/leetcode-solve
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - SonnetSaif/Stock-Prediction-Forecasting-Stacked-LSTM
+  - SonnetSaif/SalaryPrediction_WebApp-using-MachineLearning
+  - SonnetSaif/Fake-News-Classifier
+  - SonnetSaif/SMS-Spam-Classifier
