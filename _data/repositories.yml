@@ -1,10 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sonnetsaif
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
+  - SonnetSaif/U-Net
+  - SonnetSaif/leetcode-solve
   - jekyll/jekyll
   - jquery/jquery
   - FortAwesome/Font-Awesome
