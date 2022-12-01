@@ -5,8 +5,12 @@
       value: Saiful Islam
     - name: Date of Birth
       value: 3 July 1995
-    # - name: Languages
-    #   value: English, German
+    - name: Languages
+      value: Bengali, English
+    - name: Academic CV
+      value: PDF
+    - name: Resume
+      value: PDF
 
 - title: Education
   type: time_table
