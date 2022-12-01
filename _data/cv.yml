@@ -90,7 +90,7 @@
 #         - Description 2.
 
 - title: Research Interests
-  type: list
+  type: nested_list
   contents:
     # - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
     - title: RI
