@@ -93,7 +93,7 @@
   type: list
   contents:
     # - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-    - title:
+    - title: RI
       items:
         - Neural Network
         - Computer Vision
