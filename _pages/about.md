@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Software Engineer @ <a href='https://www.spectrum-bd.com/'>Spectrum E&C</a>
+subtitle: Software Engineer (R&D) @ <a href='https://www.spectrum-bd.com/'>Sincos ATL</a>
 
 
 profile:
