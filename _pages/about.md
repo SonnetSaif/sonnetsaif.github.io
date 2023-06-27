@@ -7,7 +7,7 @@ subtitle: Software Engineer (R&D) @ <a href='https://www.spectrum-bd.com/'>Sinco
 
 profile:
   align: right
-  image: DSC_4159.jpg
+  image: IMG_1529.jpg
   image_circular: false # crops the image to make it circular
   address:
 
