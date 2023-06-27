@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: **** Software Engineer (R&D) **** @ <a href='http://sel-gatl.com/'>Sincos ATL</a> · **** Previously **** Junior Software Engineer @ <a href='https://www.spectrum-bd.com/'>Spectrum ECL</a>
+subtitle: ** Software Engineer (R&D) ** @ <a href='http://sel-gatl.com/'>Sincos ATL</a> · ** Previously ** Junior Software Engineer @ <a href='https://www.spectrum-bd.com/'>Spectrum ECL</a>
 
 
 profile:
