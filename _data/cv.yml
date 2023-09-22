@@ -23,15 +23,17 @@
         - Credits - 161.25, Language of Medium - English.
         - title: Thesis
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Deep Learning-Based Video Captioning in Bengali
 
 - title: Experience
   type: time_table
   contents:
     - title: Software Engineer
+      institution: Sincos Automation Technologies Limited
+      year: April, 2023 - Present
+    - title: Associate Software Engineer
       institution: Spectrum Engineering Consortium (Pvt.) Ltd.
-      year: 2021 - Present
+      year: February, 2021 - February, 2023
       description:
         # - Description 1.
         # - Description 2.
@@ -97,5 +99,5 @@
       items:
         - Neural Network
         - Computer Vision
-        - Generative Models
-        - Reinforcement Learning
+        - Generative AI
+        - NLP

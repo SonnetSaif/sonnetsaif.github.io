@@ -2,9 +2,10 @@ github_users:
   - sonnetsaif
 
 github_repos:
-  - SonnetSaif/U-Net
-  - SonnetSaif/leetcode-solve
+  - SonnetSaif/vanilla-GAN-from-scratch_PyTorch
+  - SonnetSaif/VAE-from-scratch_PyTorch
   - SonnetSaif/Stock-Prediction-Forecasting-Stacked-LSTM
-  - SonnetSaif/SalaryPrediction_WebApp-using-MachineLearning
   - SonnetSaif/swap-within-image
+  - SonnetSaif/SalaryPrediction_WebApp-using-MachineLearning
   - SonnetSaif/Fake-News-Classifier
+  - SonnetSaif/leetcode-solve
