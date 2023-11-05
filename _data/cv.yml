@@ -3,8 +3,18 @@
   contents:
     - name: Full Name
       value: Saiful Islam
+    - name: Designation
+      value: Software Engineer (R&D)
     - name: Date of Birth
       value: 3 July 1995
+    - name: Religion
+      value: Islam
+    - name: Phone
+      value: (+880) 1616-790790
+    - name: Email
+      value: islam.saiful03@outlook.com
+    - name: URL
+      value: sonnetsaif.github.io
     - name: Languages
       value: Bengali, English
     - name: Academic CV
@@ -24,15 +34,16 @@
         - title: Thesis
           contents:
             - Deep Learning-Based Video Captioning in Bengali
+            - Supervisor - <a href="https://scholar.google.com/citations?user=su683LQAAAAJ&hl=en">Md.Faisal Mahmud Shah</a>
 
 - title: Experience
   type: time_table
   contents:
-    - title: Software Engineer
-      institution: Sincos Automation Technologies Limited
-      year: April, 2023 - Present
+    - title: Software Engineer (R&D)
+      institution: <a href="http://sel-gatl.com/">Sincos Automation Technologies Limited</a>
+      year: March, 2023 - Present
     - title: Associate Software Engineer
-      institution: Spectrum Engineering Consortium (Pvt.) Ltd.
+      institution: <a href="https://www.spectrum-bd.com/">Spectrum Engineering Consortium (Pvt.) Ltd.</a>
       year: Feb, 2021 - Feb, 2023
       # description:
         # - Description 1.
