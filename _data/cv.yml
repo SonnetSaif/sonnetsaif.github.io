@@ -18,9 +18,9 @@
     - name: Languages
       value: Bengali, English
     - name: Academic CV
-      value: PDF
+      value: <a href="assets\pdf\Saiful_Islam-Academic_CV.pdf">PDF</a>
     - name: Resume
-      value: <a href="assets/pdf/resume.pdf">PDF</a>
+      value: <a href="assets\pdf\Saiful_Islam-Resume.pdf">PDF</a>
 
 - title: Education
   type: time_table
@@ -33,7 +33,7 @@
         - Credits - 161.25, Language of Medium - English.
         - title: Thesis
           contents:
-            - Deep Learning-Based Video Captioning in Bengali
+            - <a href="https://ieeexplore.ieee.org/abstract/document/9594154/>"Deep Learning-Based Video Captioning in Bengali</a>
             - Supervisor - <a href="https://scholar.google.com/citations?user=su683LQAAAAJ&hl=en">Md.Faisal Mahmud Shah</a>
 
 - title: Experience
@@ -41,7 +41,7 @@
   contents:
     - title: Software Engineer (R&D)
       institution: <a href="http://sel-gatl.com/">Sincos Automation Technologies Limited</a>
-      year: March, 2023 - Present
+      year: Mar, 2023 - Present
     - title: Associate Software Engineer
       institution: <a href="https://www.spectrum-bd.com/">Spectrum Engineering Consortium (Pvt.) Ltd.</a>
       year: Feb, 2021 - Feb, 2023
