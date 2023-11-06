@@ -2,10 +2,11 @@ github_users:
   - sonnetsaif
 
 github_repos:
+  - SonnetSaif/vision-transformer-from-scratch_PyTorch
+  - SonnetSaif/object-detection_YOLOv8
+  - SonnetSaif/U-NET-from-scratch_PyTorch
   - SonnetSaif/vanilla-GAN-from-scratch_PyTorch
   - SonnetSaif/VAE-from-scratch_PyTorch
   - SonnetSaif/Stock-Prediction-Forecasting-Stacked-LSTM
   - SonnetSaif/swap-within-image
-  - SonnetSaif/SalaryPrediction_WebApp-using-MachineLearning
-  - SonnetSaif/Fake-News-Classifier
   - SonnetSaif/leetcode-solve
