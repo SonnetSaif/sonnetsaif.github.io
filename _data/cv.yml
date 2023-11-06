@@ -10,11 +10,11 @@
     - name: Religion
       value: Islam
     - name: Phone
-      value: (+880) 1616-790790
+      value: tel:(+880) 1616-790790
     - name: Email
-      value: islam.saiful03@outlook.com
+      value: mailto:islam.saiful03@outlook.com
     - name: URL
-      value: sonnetsaif.github.io
+      value: https://sonnetsaif.github.io
     - name: Languages
       value: Bengali, English
     - name: Academic CV
@@ -33,7 +33,7 @@
         - Credits - 161.25, Language of Medium - English.
         - title: Thesis
           contents:
-            - <a href="https://ieeexplore.ieee.org/abstract/document/9594154/>"Deep Learning-Based Video Captioning in Bengali</a>
+            - <a href="https://ieeexplore.ieee.org/abstract/document/9594154/">Deep Learning-Based Video Captioning in Bengali</a>
             - Supervisor - <a href="https://scholar.google.com/citations?user=su683LQAAAAJ&hl=en">Md.Faisal Mahmud Shah</a>
 
 - title: Experience
@@ -105,7 +105,6 @@
 - title: Research Interests
   type: nested_list
   contents:
-    # - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
     - title:
       items:
         - Neural Network
@@ -113,8 +112,7 @@
         - Generative AI
         - NLP
 
-
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Reading Comics (<a href="https://www.dc.com/comics">DC Comics</a> ), Playing Cricket, etc.
+    - <u>Hobbies:</u> Reading Comics (<a href="https://www.dc.com/comics">DC Comics</a>), Playing Cricket
